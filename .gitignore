@@ -1,0 +1,18 @@
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Network packet captures
+*.pcap
+*.pcapng
+
+# Log files
+*.log
+
+# Environment files that may contain secrets
+.env
+.env.*
+
